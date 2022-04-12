@@ -15,10 +15,7 @@
     "@storybook/testing-library": "^0.0.9",
     "@types/react": "^17.0.43",
     "babel-loader": "^8.2.4",
-<<<<<<< HEAD
-=======
     "chromatic": "^6.5.3",
->>>>>>> 969648e276503019180aa8242b1fbc0a43fe250e
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "typescript": "^4.6.3"
